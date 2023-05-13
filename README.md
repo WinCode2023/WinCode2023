@@ -8,6 +8,6 @@ About me
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
 ### Follow Me
-![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube)
-![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)
-![MySite](https://img.shields.io/badge/-MySite-090909?style=for-the-badge&logo=MySite)
+![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube)(https://youtube.com/@matematica_youtube)
+![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)(https://discord.gg/5gKushTPSR)
+![MySite](https://img.shields.io/badge/-MySite-090909?style=for-the-badge&logo=MySite)(https://matematica.siteinternet.ru/)
