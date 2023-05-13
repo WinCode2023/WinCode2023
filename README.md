@@ -1,4 +1,4 @@
-# Hi, I'm Nikita!
+[# Hi, I'm Nikita!
 
 ## About myself
 I am a programmer with two years of experience. I love learning new programming languages and creating new projects. My passion is creating beautiful and effective programs.
@@ -18,7 +18,7 @@ Sorry they're not here yet
 ### Links
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@matematica_youtube)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/5gKushTPSR)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/5gKushTPSR))
 [![MySite](https://img.shields.io/badge/-MySite-1E90FF?style=for-the-badge&logo=MySite)](https://matematica.siteinternet.ru/)
 
 ___________________________________________________________________________________________________________________________________________________
