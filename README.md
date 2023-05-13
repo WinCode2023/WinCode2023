@@ -1,6 +1,6 @@
 About me
 
 Languages and Tools
-![Flutter](https://img.shields.io/badge/-Lua-FF8C00)
+![Flutter](https://img.shields.io/badge/-Lua-FF8C00?style=for-the-badge&logo=appveyor)
 
 Follow Me
