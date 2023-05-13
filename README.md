@@ -1,9 +1,9 @@
-# Привет, я Никита!
+# Hi, I'm Nikita!
 
-## О себе
-Я программист с двухлетним опытом работы. Я люблю изучать новые языки программирования и создавать новые проекты. Моя страсть - это создание красивых и эффективных программ.
+## About myself
+I am a programmer with two years of experience. I love learning new programming languages and creating new projects. My passion is creating beautiful and effective programs.
 
-### Языки и инструменты
+### Languages and tools
 
 ![Lua](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=Lua)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
@@ -12,10 +12,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
-### Проекты
-Извини их пока нет
+### Projects
+Sorry they're not here yet
 
-### Ссылки
+### Links
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@matematica_youtube)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/5gKushTPSR)
