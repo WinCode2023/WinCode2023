@@ -15,5 +15,5 @@
 ### Ссылки
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@matematica_youtube)
-[![Discord](https://img.shields.io/badge/-Discord-1E90FF?style=for-the-badge&logo=Discord)](https://discord.gg/5gKushTPSR)
-[![MySite](https://img.shields.io/badge/-MySite-090909?style=for-the-badge&logo=MySite)](https://matematica.siteinternet.ru/)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/5gKushTPSR)
+[![MySite](https://img.shields.io/badge/-MySite-1E90FF?style=for-the-badge&logo=MySite)](https://matematica.siteinternet.ru/)
